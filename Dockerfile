@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/playwright:v1.37.1-jammy
+FROM mcr.microsoft.com/playwright:v1.54.0-noble
 
 RUN mkdir /app
 WORKDIR /app
